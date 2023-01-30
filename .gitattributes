@@ -4,3 +4,5 @@
 *.png binary
 *.ogg binary
 *.wav binary
+*.unity binary
+*.json binary
